@@ -1,0 +1,20 @@
+.grid{
+    -fx-font-size: 25;
+}
+.button {
+    -fx-background-color: #407fc0;
+    -fx-font-size: 20;
+    -fx-background-radius: 0;
+    -fx-font-weight: Bolder;
+}
+.check-box{
+    -fx-font-weight: Normal;
+    -fx-font-size: 20;
+    -fx-text-fill: #545158;
+}
+.label{
+    -fx-text-fill: #343138;
+    -fx-font-size: 20;
+    -fx-font-weight: Normal;
+    -fx-text-alignment: Center;
+}

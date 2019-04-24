@@ -1,0 +1,28 @@
+.root{
+    -fx-background-color: #e0ddca;
+    -fx-font-size: 30;
+}
+.button {
+    -fx-background-color: #B0B0B0;
+    -fx-font-size: 20;
+    -fx-background-radius: 0;
+    -fx-font-weight: Bolder;
+}
+.button-orange{
+    -fx-background-color: #d28531;
+}
+.button-function{
+    -fx-background-color: #9C989C;
+}
+.text-field{
+    -fx-background-color: #D0D0D0;
+    -fx-font-weight: Bold;
+    -fx-background-radius: 0;
+    -fx-text-fill: #151515;
+    -fx-prompt-text-fill: #5f5f5f;
+    -fx-text-alignment: Right;
+    -fx-font-size: 20;
+}
+.text-field_Secondary {
+    -fx-font-size: 15;
+}
